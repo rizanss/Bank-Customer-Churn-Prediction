@@ -1,4 +1,4 @@
-# 💰 Bank Customer Churn Prediction API
+# 💰 Bank Customer Churn Prediction
 
 🚀 **Prediksi apakah customer bank akan churn atau tetap setia menggunakan Logistic Regression & Decision Tree!**  
 🔥 **Dilengkapi dengan API berbasis Flask untuk melakukan prediksi secara real-time!**  
